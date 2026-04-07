@@ -1,3 +1,4 @@
+package game;
 public class Node {
     private Scene data;
     private Node next;

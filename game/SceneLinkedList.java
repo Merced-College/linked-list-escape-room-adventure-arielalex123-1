@@ -1,3 +1,4 @@
+package game;
 public class SceneLinkedList {
     private Node head;
     private int size;

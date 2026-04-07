@@ -1,3 +1,4 @@
+package game;
 public class Choice {
     private String text;
     private int nextSceneId;
